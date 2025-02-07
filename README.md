@@ -99,7 +99,7 @@ Play with the dashboard and form yourself
    [View the Dashboard Overview](https://public.tableau.com/app/profile/davis.data/viz/ExpenseDashboard_17388573556900/NeutralDashboard)
 
 - **Travel Itinerary & Recommendations**:  
-   [View the Travel Itinerary & Recommendations Dashboard](https://public.tableau.com/app/profile/davis.data/viz/TravelItineraryandRecommendations/NeutralDashboard)
+   [View the Travel Itinerary & Recommendations Dashboard](https://public.tableau.com/app/profile/davis.data/viz/TravelItineraryandrecommendation/Recommandation)
 
 
 ## Troubleshooting
