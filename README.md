@@ -118,7 +118,6 @@ This project consists of two primary components:
 
 Now your expense dashboard is set up and ready to use! 🚀
 
-For tableau and apps script experienced profiles you can directly download workbook/Google Apps Script from this Github and include it to your own project.
 
 ## Links
 
