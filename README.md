@@ -72,11 +72,43 @@ This project consists of two primary components:
    
     -Grant **Google App Script** the necessary permissions to access your sheet when prompted.
 
-3. Download the Tableau Workbook
+
+2. Deploy the Web App
+
+   ![Deploy Demo](images/deployform.gif)
+
+
+    -In your copied Google Sheet, go to **Extensions** > **Apps Script**.
+
+    -In the Apps Script editor, click **Deploy** > **New Deployment**.
+
+    -At **Select type** choose **Web App** as the deployment type if it's not already pre-set.
+
+    -Under **Execute as**, select **Me**.
+
+    -Under **Who has access**, select **Only Myself**.
+
+    -Click **Deploy** and **Authorize the script**.
+
+    -**Copy the web app URL** that appears after deployment.
+
+
+
+3. Update the Web App URL in the Script
+
+    -In the Apps Script editor, locate the function **openWebApp()**.
+
+    -Replace the existing web app URL with the one you copied:
+       ![Codetochange](images/link_to_change.png)
+
+    -Save the script and reload your Google Sheet.
+
+
+4. Download the Tableau Workbook
 
     -Get the file: [Tableau Workbook](https://public.tableau.com/app/profile/davis.data/viz/ExpenseDashboard_17388573556900/NeutralDashboard)
 
-4. Connect Your Google Sheet to Tableau
+5. Connect Your Google Sheet to Tableau
 
     -Open the Tableau Workbook in **Tableau Desktop**.
    
